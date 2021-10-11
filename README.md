@@ -27,3 +27,4 @@
 
 [Memory augmented neural networks](https://arxiv.org/pdf/1605.06065.pdf)
 
+[Few Shot Meta Baseline](https://github.com/yinboc/few-shot-meta-baseline) // mini imagement, tiered imagenet. 
