@@ -4,7 +4,7 @@
 
 1. Gather datasets 
 
-    1. Omniglot ()
+    1. Omniglot sourced from [CS 330 Fall 2020 HW1](http://cs330.stanford.edu/fall2020/material/CS330_HW1.pdf) 
 
     2. Tiered ImageNet
 
